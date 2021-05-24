@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\celin_bv2zdsh\\source\\repos\\MVC\\BookStoreFrontend\\BookStoreFrontend.csproj": {}
+    "C:\\Users\\celin_bv2zdsh\\source\\repos\\API\\BookStore\\BookStoreFrontend\\BookStoreFrontend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\celin_bv2zdsh\\source\\repos\\MVC\\BookStoreFrontend\\BookStoreFrontend.csproj": {
+    "C:\\Users\\celin_bv2zdsh\\source\\repos\\API\\BookStore\\BookStoreFrontend\\BookStoreFrontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\celin_bv2zdsh\\source\\repos\\MVC\\BookStoreFrontend\\BookStoreFrontend.csproj",
+        "projectUniqueName": "C:\\Users\\celin_bv2zdsh\\source\\repos\\API\\BookStore\\BookStoreFrontend\\BookStoreFrontend.csproj",
         "projectName": "BookStoreFrontend",
-        "projectPath": "C:\\Users\\celin_bv2zdsh\\source\\repos\\MVC\\BookStoreFrontend\\BookStoreFrontend.csproj",
+        "projectPath": "C:\\Users\\celin_bv2zdsh\\source\\repos\\API\\BookStore\\BookStoreFrontend\\BookStoreFrontend.csproj",
         "packagesPath": "C:\\Users\\celin_bv2zdsh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\celin_bv2zdsh\\source\\repos\\MVC\\BookStoreFrontend\\obj\\",
+        "outputPath": "C:\\Users\\celin_bv2zdsh\\source\\repos\\API\\BookStore\\BookStoreFrontend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

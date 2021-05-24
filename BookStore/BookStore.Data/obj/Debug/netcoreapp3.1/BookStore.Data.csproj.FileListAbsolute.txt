@@ -7,3 +7,12 @@ C:\Users\celin_bv2zdsh\source\repos\API\BookStore.Data\obj\Debug\netcoreapp3.1\B
 C:\Users\celin_bv2zdsh\source\repos\API\BookStore.Data\obj\Debug\netcoreapp3.1\BookStore.Data.csproj.CoreCompileInputs.cache
 C:\Users\celin_bv2zdsh\source\repos\API\BookStore.Data\obj\Debug\netcoreapp3.1\BookStore.Data.dll
 C:\Users\celin_bv2zdsh\source\repos\API\BookStore.Data\obj\Debug\netcoreapp3.1\BookStore.Data.pdb
+C:\Users\celin_bv2zdsh\source\repos\API\BookStore\BookStore.Data\bin\Debug\netcoreapp3.1\BookStore.Data.deps.json
+C:\Users\celin_bv2zdsh\source\repos\API\BookStore\BookStore.Data\bin\Debug\netcoreapp3.1\BookStore.Data.dll
+C:\Users\celin_bv2zdsh\source\repos\API\BookStore\BookStore.Data\bin\Debug\netcoreapp3.1\BookStore.Data.pdb
+C:\Users\celin_bv2zdsh\source\repos\API\BookStore\BookStore.Data\obj\Debug\netcoreapp3.1\BookStore.Data.csprojAssemblyReference.cache
+C:\Users\celin_bv2zdsh\source\repos\API\BookStore\BookStore.Data\obj\Debug\netcoreapp3.1\BookStore.Data.AssemblyInfoInputs.cache
+C:\Users\celin_bv2zdsh\source\repos\API\BookStore\BookStore.Data\obj\Debug\netcoreapp3.1\BookStore.Data.AssemblyInfo.cs
+C:\Users\celin_bv2zdsh\source\repos\API\BookStore\BookStore.Data\obj\Debug\netcoreapp3.1\BookStore.Data.csproj.CoreCompileInputs.cache
+C:\Users\celin_bv2zdsh\source\repos\API\BookStore\BookStore.Data\obj\Debug\netcoreapp3.1\BookStore.Data.dll
+C:\Users\celin_bv2zdsh\source\repos\API\BookStore\BookStore.Data\obj\Debug\netcoreapp3.1\BookStore.Data.pdb

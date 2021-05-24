@@ -19,7 +19,7 @@ namespace BookStore.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Data Source = (LocalDb)\MSSQLLocalDB; Initial Catalog = LibraryDB2");
+            optionsBuilder.UseSqlServer(@"Data Source = (LocalDb)\MSSQLLocalDB; Initial Catalog = LibraryDB3");
         }
     }
 }
